@@ -39,13 +39,13 @@
 
 <div align="center">
     <img width="49%" alt="Proffy form web" src="assets/images/web/form-web.svg" />
-    <img width="49%" alt="Proffy list web" src="assets/images/web/list-web.svg" />
+    <img width="49%" alt="Proffy list web" src="assets/images/web/list-web.png" />
 </div>
 
 ### 📱 Mobile
 
 <div align="center">
-    <img width="33%" alt="Proffy favorites mobile" src="assets/images/mobile/favorites-mobile.svg" />
+    <img width="33%" alt="Proffy favorites mobile" src="assets/images/mobile/favorites-mobile.png" />
     <img width="33%" alt="Proffy home mobile" src="assets/images/mobile/home-mobile.svg" />
     <img width="33%" alt="Proffy barber study mobile" src="assets/images/mobile/study-mobile.svg" />
 </div>
