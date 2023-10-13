@@ -14,7 +14,7 @@
     <h5 style="margin-top: 0;">(for now)</h5>
 </div>
 
-<p align="center">Proffy is a project developed at the NLW(next level week) 2 program of Rocketseat company using Node.js, React and React Native.</p>
+<p align="center">Proffy is a project developed at the NLW(next level week) 2 program of Rocketseat company using Node.js, React, and React Native.</p>
 
 <p align="center">
  <a href="#-goal">Goal</a> •
@@ -53,12 +53,12 @@
 ## 🎩 Features
 
 ### Class
-- [x] Search for classes by week day, subject and time
+- [x] Search for classes by weekday, subject, and time
 - [x] Create class
 
 ### Connection
-- [x] List number of connections between teacher and student
-- [x] Create connection between teacher and student
+- [x] List the number of connections between the teacher and the student
+- [x] Create a connection between teacher and student
 
 ### Student(only on mobile)
 - [x] Add teacher to list of favorites
@@ -69,7 +69,7 @@
 
 Before we begin, you'll need to have the following dependencies installed:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) and [Yarn](https://yarnpkg.com/).
-Besides, it would be great that you have a code editor to work on this project, such as [VSCode](https://code.visualstudio.com/).
+Besides, it would be great if you have a code editor to work on this project, such as [VSCode](https://code.visualstudio.com/).
 
 ## 🏃‍♀️ Runing project 🏃‍♂️
 
@@ -77,7 +77,7 @@ Besides, it would be great that you have a code editor to work on this project, 
 #### To run the mobile app It's important that you change the 'baseURL' value to your IP address in [this](mobile/src/services/api.ts) file.
 
 ### 🕵️‍♀️ Hint 🕵️‍♂️ ###
-#### You can also access the Insomnia file below to check for api features and how to use them.
+#### You can also access the Insomnia file below to check for API features and how to use them.
 <p align="center">
     <a href="assets/insomnia/Insomnia-Proffy.json">
         <img src="https://img.shields.io/badge/-insomnia-5849BE?style=for-the-badge&logo=Insomnia&logoColor=white" />
@@ -90,27 +90,27 @@ Besides, it would be great that you have a code editor to work on this project, 
 # Clone the repo
 $ git clone <https://github.com/thalessarubbi/Proffy.git>
 
-# Access project folder from a terminal
+# Access the project folder from a terminal
 $ cd Proffy
 
-# Go to server folder
+# Go to the server folder
 $ cd server
 
 # Install dependencies
 $ yarn
 
-# run api on dev mode
+# Run API on dev mode
 $ yarn start
 
-# The server will start at port :3333 - access <http://localhost:3333>
+# The server will start at port:3333 - access <http://localhost:3333>
 
 
 #### Start web app ####
 
-# Access project folder from a terminal
+# Access the project folder from a terminal
 $ cd Proffy
 
-# Go to web folder
+# Go to the web folder
 $ cd web
 
 # Install dependencies
@@ -119,15 +119,15 @@ $ yarn
 # run web ap on dev mode
 $ yarn start
 
-# The web app will start at port :3000 - access <http://localhost:3000>
+# The web app will start at port:3000 - access <http://localhost:3000>
 
 
 #### Start mobile app ####
 
-# Access project folder from a terminal
+# Access the project folder from a terminal
 $ cd Proffy
 
-# Go to mobile app folder
+# Go to the mobile app folder
 $ cd mobile
 
 # Install dependencies
@@ -136,13 +136,13 @@ $ yarn
 # run mobile app on real device(you'll need to have an Expo client app installed in your device - <https://expo.io/tools#client>)
 $ yarn start
 
-# Your browser will open with an available QrCode.
+# Your browser will open with an available QR code.
 # Scan the QrCode and the Expo client app will open with your project running
 
 # run mobile app on iOS emulator(you'll need to be on a MacOS)
 $ yarn start ios
 
-# run mobile app on android emulator
+# run mobile app on Android emulator
 $ yarn start android
 
 # The mobile app will start in an emulator
