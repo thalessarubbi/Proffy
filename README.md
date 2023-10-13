@@ -28,7 +28,7 @@
 
 ## 🎯 Goal
 
-<p align="center">Proffy is a project developed to help teachers from several subjects to connect with students that want tho learn them.</p>
+<p align="center">Proffy is a project developed to help teachers from several subjects connect with students who want to learn them.</p>
 
 ## 🎨 Layout
 ### 🕸 Web
